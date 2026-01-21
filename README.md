@@ -45,4 +45,4 @@ How It Works
 -This reduces hallucination and improves accuracy
 
 
-
+loom video: https://www.loom.com/share/2f26decc98a140ef81787f0a28dee484
