@@ -9,7 +9,6 @@
 <div align="center">
  <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 </div>
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
 An AI-powered Study Assistant that allows users to:
 1. Ingest study notes
@@ -18,7 +17,7 @@ An AI-powered Study Assistant that allows users to:
 4. Generate quizzes automatically
 
 
-##architecture overview:
+architecture overview:
 User Notes
    ↓
 Text Chunking
@@ -34,7 +33,7 @@ LLaMA 3.1 (Groq)
 Answer / Simplified Notes / Quiz
 
 
-##Features:
+Features:
 1. Notes Ingestion
 Upload or paste notes, which are split into chunks, embedded, and stored in a vector database.
 2. Question Answering (RAG)
@@ -47,7 +46,7 @@ Automatically generates multiple-choice questions from your notes.
 User-friendly Gradio interface with a sidebar layout.
 
 
-##How It Works
+How It Works
 1. Chunking: Large notes are split into smaller chunks to improve retrieval accuracy and stay within LLM context limits.
 2. Embeddings: Each chunk is converted into a numerical vector using a sentence-transformer model.
 3. Indexing: Vectors are stored in a Pinecone index, enabling fast similarity search.
@@ -59,3 +58,13 @@ User-friendly Gradio interface with a sidebar layout.
 
 
 loom video: https://www.loom.com/share/2f26decc98a140ef81787f0a28dee484
+
+<details>
+  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <div align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=tokyo-night)
+  </div>
+</details>
