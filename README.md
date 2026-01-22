@@ -60,11 +60,11 @@ How It Works
 loom video: https://www.loom.com/share/2f26decc98a140ef81787f0a28dee484
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/[yosefshatila00]/[yosefshatila]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api?username=[yosefshatila00]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=[yosefshatila00]&theme=tokyonight&hide_border=false)<br/>
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=tokyo-night)
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=[yosefshatila00]&theme=tokyo-night)
   </div>
 </details>
